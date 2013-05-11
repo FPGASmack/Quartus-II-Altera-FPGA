@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat May 11 03:53:45 2013
+Quartus II 64-Bit Version : 12.1 Build 243 01/31/2013 SP 1 SJ Full Version
+Revision Name : bitcoin_miner
+Top-level Entity Name : top
+Family : Cyclone IV E
+Total logic elements : 103,286
+    Total combinational functions : 56,023
+    Dedicated logic registers : 63,078
+Total registers : 63078
+Total pins : 1
+Total virtual pins : 0
+Total memory bits : 11,456
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
